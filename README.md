@@ -1,7 +1,7 @@
-Purpose
+Purpose: 
 A website that allows viewer to create password based off the criteria they choose
 
-Built With
+Built With:
 
 HTML
 CSS
